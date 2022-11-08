@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Wedding Photography",
+		"img":"https://ibb.co/fSdRSBp",
+		"price":"40",
+		"description": "They said a picture is worth a thousand words. It clearly and beautifully captures your emotions – the joy, the laughter, the tears, and you name it. We pride ourselves on offering the best shots to capture your joy and tell you your story in photos.We are the best wedding photographer in Bangladesh who offer value for your money as all our professional photographers offer their impeccable skills on your big day. Being the best BD wedding photography agency, we seek to bring out the pomp and color on your special day and make you feel really special!A good wedding photographer’s job is to capture the sweet love story of a couple. And, Nijol Creative brings every moment of your wedding story to life. We are a trusted company when you are talking about professional photography in Bangladesh. ",
+		"rating": "4.5"
+
+	},
+	{
+		"name": "Sports Photography",
+		"img":"https://ibb.co/MDPf6L0",
+		"price":"40",
+		"description": "Sports photography is a significant segment of the industry, and there are plenty of opportunities here if you're looking for another source of revenue for your photography business. Even if you aren't an athlete yourself, snapping images of players or sportspeople is a great way to expand your photography skill set. Capturing action at the fast pace of athletic events makes for a challenging photographic assignment. Practicing action shots for sports photography can improve your camera skills, open up more creative possibilities, and enhance your photography game overall. Here are a few tips that could help you get started.When it comes to what counts as a sport, you need to keep an open mind. While football, baseball, or basketball are obvious, these major sports are just the tip of the iceberg. Golf, tennis, swim meets, track and field events, cycling tours, skiing, and water sports count too.",
+		"rating": "3.9"
+
+	},
+	{
+		"name": "News Photography",
+		"img":"https://ibb.co/q7zt8MB",
+		"price":"40",
+		"description": "A photojournalist is a professional who has combined interests in reporting journalistic news and capturing photographs. If this sounds interesting to you, consider pursuing a career in photojournalism to tell narratives through your images. Learning about this skill can help you gain the abilities required to complete the job's tasks effectively and efficiently, especially when working out in the field among breaking news. In this article, we discuss the answer to the question, including sharing its definition, defining its importance, explaining the code of ethics and listing various types of photojournalism.Photojournalism is important because it can add an emotional element to a news story. An image can connect with an audience and evoke an emotional reaction from them, which may inspire them to act on the call-to-action the news story may have accompanied with it. The purpose of photojournalism is to relate and connect with the reader. An appealing photo can encourage an individual to click on or watch a video about the news story.",
+		"rating": "4.0"
+
+	},
+	{
+		"name": "Wildlife Photography",
+		"img":"https://ibb.co/4dPsrNv",
+		"price":"40",
+		"description": "Wildlife photography is a challenging hobby to get into because it takes a lot of commitment. To excel in this field, you not only have to develop your camera-taking skills, but you also have to learn about the animals that you shoot.A regular camera constantly exposed to harsh elements will not last very long, so you need a camera that’s weather-sealed. Although the extra protection makes it more expensive, knowing that it can perform in different conditions is enough reason to invest in it.Shooting outdoors can also be challenging even for the most advanced cameras out there, so you need a camera with manual mode. You're going to need full control when the situation becomes too complicated to use automatic features.",
+		"rating": "4.8"
+
+	},
+	{
+		"name": "Festival Photography",
+		"img":"https://ibb.co/PmpGpDY",
+		"price":"40",
+		"description": "Festivals are a great place to practice a wide variety of photographic disciplines for any photographer. With plenty of action in one central location, often over a couple of days or more, there’s a chance to try your hand at everything; portraiture, street photography, landscape, night photography, fast action, and more, as well as play with all kinds of lighting and subjects, and the chance to tell a photographic story.There is a festival for just about everything from the massive Burning Man Festival, to small food, wine, music festivals, there’s some bizarre festivals like Tunarama in Australia, where the key event is tuna tossing. Unfortunately I didn’t make it to Tunarama, so for this article I have used images from a small country town folk festival. Regardless of the kind of festival you choose, here are some tips to get you started – a beginner’s guide to photographing festivals.",
+		"rating": "4.2"
+
+	},
+	{
+		"name": "Nature Photography",
+		"img":"https://ibb.co/bNZz7CW",
+		"price":"40",
+		"description": "Dramatic images of nature help shape our consciousness about the physical world, and classic landscape photos by C. E. Watkins, Ansel Adams, Eliot Porter, and Robert Glenn Ketchum play a key part in modern cultural literacy about the environment and our evolving relationship to it. For this very reason, contemplating nature within the frame of photography also invites us to consider what sort of environmental understanding of our changing world nature photography does provide.Conservation-minded photographers, such as the renowned Eliot Porter, often put photography to the political task of helping save the subjects they photograph. Even if you do not recognize his name, you surely know his work. His Glen Canyon series, The Place No One Knew (1963), composed for the Sierra Club, featured haunting, quasi-abstract images of rock formations and watercourses that evoked the canyon’s unappreciated, almost otherworldly majesty. By mastering Kodak’s new dye-transfer color process, Porter was able to craft tonally subtle images with the clarity and detail of black and white—the only respected medium of nature photography up to that point, made famous by his mentor, Ansel Adams. Sadly, even these new kinds of images could not stop the 1966 construction of the Glen Canyon Dam on the Colorado River, which put those spectacular locations permanently underwater.",
+		"rating": "4.5"
+
+	}
+
+]
