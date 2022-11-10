@@ -38,7 +38,6 @@ async function run (){
         const reviews = await cursor.toArray();
         res.send(reviews);
     });
-
     app.get('/services/:id', async (req, res) => {
         const id = req.params.id;
         const query = { _id: ObjectId(id) };
